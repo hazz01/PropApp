@@ -1,16 +1,3 @@
 # propapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PROAPP is an educational mobile application designed to help students understand probability concepts in mathematics through interactive and engaging learning experiences. The project was initiated by Mr. Rendi, a mathematics teacher at SMK Telkom Malang, and developed specifically for a classroom learning session.
